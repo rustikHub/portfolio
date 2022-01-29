@@ -1,3 +1,6 @@
 [submodule "tg-bot-lib"]
 	path = tg-bot-lib
 	url = git@github.com:rustikHub/tg-bot-lib.git
+[submodule "bozor-bot"]
+	path = bozor-bot
+	url = git@github.com:rustikHub/bozor-bot.git
