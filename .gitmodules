@@ -13,3 +13,6 @@
 [submodule "world-ranks"]
 	path = world-ranks
 	url = git@github.com:rustikHub/world-ranks.git
+[submodule "word-ranks-backend"]
+	path = word-ranks-backend
+	url = git@github.com:rustikHub/word-ranks-backend.git
