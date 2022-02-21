@@ -10,3 +10,6 @@
 [submodule "learn-kotlin"]
 	path = learn-kotlin
 	url = git@github.com:rustikHub/learn-kotlin.git
+[submodule "world-ranks"]
+	path = world-ranks
+	url = git@github.com:rustikHub/world-ranks.git
