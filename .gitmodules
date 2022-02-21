@@ -16,3 +16,6 @@
 [submodule "word-ranks-backend"]
 	path = word-ranks-backend
 	url = git@github.com:rustikHub/word-ranks-backend.git
+[submodule "MyPuzzle15"]
+	path = MyPuzzle15
+	url = git@github.com:rustikHub/MyPuzzle15.git
