@@ -7,3 +7,6 @@
 [submodule "convertor-bot"]
 	path = convertor-bot
 	url = git@github.com:rustikHub/convertor-bot.git
+[submodule "learn-kotlin"]
+	path = learn-kotlin
+	url = git@github.com:rustikHub/learn-kotlin.git
