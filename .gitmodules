@@ -4,3 +4,6 @@
 [submodule "bozor-bot"]
 	path = bozor-bot
 	url = git@github.com:rustikHub/bozor-bot.git
+[submodule "convertor-bot"]
+	path = convertor-bot
+	url = git@github.com:rustikHub/convertor-bot.git
